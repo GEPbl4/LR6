@@ -1,0 +1,1 @@
+WORKDIR = "C:\\fa\\Praktikum\\LR_6_files"
